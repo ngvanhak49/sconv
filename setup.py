@@ -55,7 +55,7 @@ setup(
 
     # The author name and email fields are self explanatory.
     # These fields are OPTIONAL
-    author_name="",
+    author_name="ha86",
     author_email="",
 
     # Classifiers help categorize your project.
